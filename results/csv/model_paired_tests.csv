@@ -1,0 +1,9 @@
+"challenger","median_abs_err_difference","p_value"
+"Distributed lag (OLS)",-1.65346932652269,0
+"Persistence (reference)",-2.79724376943552,0
+"OLS, base library (reference)",-1.65346932652269,0
+"Ridge",-1.2532090772419,1.64313007644523e-14
+"Lasso",0.822938837952584,2.25374586572476e-14
+"Elastic net",0.862267387844142,4.12942646562264e-12
+"OLS, base + six appliance lags (reference)",-1.1129450090783,2.23190355086444e-11
+"PHMR",1.0143213627538,8.06828926872218e-10

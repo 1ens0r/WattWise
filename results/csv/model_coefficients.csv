@@ -1,0 +1,270 @@
+"model","term","coefficient"
+"Ridge","appl_lag1",0.699027657763143
+"Ridge","T1",-0.0319470313851441
+"Ridge","T2",0.00290135720288703
+"Ridge","T3",0.0694254857721976
+"Ridge","T4",0.00199841912425106
+"Ridge","T5",-0.000485607172534852
+"Ridge","T6",-0.0118836990816214
+"Ridge","T7",0.0103444252094526
+"Ridge","T8",0.0383590322128206
+"Ridge","T9",-0.0557119638518022
+"Ridge","RH_1",-0.012545162555433
+"Ridge","RH_2",0.00119015311782132
+"Ridge","RH_3",0.0383011469723738
+"Ridge","RH_4",-0.00265301756539742
+"Ridge","RH_5",-0.00526968711955862
+"Ridge","RH_6",-0.0101052278441388
+"Ridge","RH_7",-0.0224555409155354
+"Ridge","RH_8",-0.00254480646658458
+"Ridge","RH_9",0.00855212727516917
+"Ridge","T_out",-0.00574202026470519
+"Ridge","RH_out",0.0241132070030267
+"Ridge","Windspeed",0.013330355088374
+"Ridge","Visibility",0.00109570802739927
+"Ridge","Press_mm_hg",-0.000830875510220634
+"Ridge","Tdewpoint",-0.00170302877961893
+"Ridge","hour_sin",-0.0779661035151305
+"Ridge","hour_cos",-0.0830604974032347
+"Ridge","weekday_sin",-0.0017107468385353
+"Ridge","weekday_cos",0.00964524120007092
+"Elastic net","appl_lag1",0.709725016907275
+"Elastic net","T1",0
+"Elastic net","T2",0
+"Elastic net","T3",0.0121546147456943
+"Elastic net","T4",0
+"Elastic net","T5",0
+"Elastic net","T6",0
+"Elastic net","T7",0
+"Elastic net","T8",0
+"Elastic net","T9",0
+"Elastic net","RH_1",0
+"Elastic net","RH_2",0
+"Elastic net","RH_3",0
+"Elastic net","RH_4",0
+"Elastic net","RH_5",0
+"Elastic net","RH_6",0
+"Elastic net","RH_7",0
+"Elastic net","RH_8",0
+"Elastic net","RH_9",0
+"Elastic net","T_out",0
+"Elastic net","RH_out",0
+"Elastic net","Windspeed",0
+"Elastic net","Visibility",0
+"Elastic net","Press_mm_hg",0
+"Elastic net","Tdewpoint",0
+"Elastic net","hour_sin",-0.0563875224885031
+"Elastic net","hour_cos",-0.0578590511806516
+"Elastic net","weekday_sin",0
+"Elastic net","weekday_cos",0.0017255255641624
+"Lasso","appl_lag1",0.719451508648736
+"Lasso","T1",0
+"Lasso","T2",0
+"Lasso","T3",0.0162118157665758
+"Lasso","T4",0
+"Lasso","T5",0
+"Lasso","T6",0
+"Lasso","T7",0
+"Lasso","T8",0
+"Lasso","T9",0
+"Lasso","RH_1",0
+"Lasso","RH_2",0
+"Lasso","RH_3",0.0025724023544705
+"Lasso","RH_4",0
+"Lasso","RH_5",0
+"Lasso","RH_6",0
+"Lasso","RH_7",0
+"Lasso","RH_8",0
+"Lasso","RH_9",0
+"Lasso","T_out",-0.00305012670924405
+"Lasso","RH_out",0
+"Lasso","Windspeed",0
+"Lasso","Visibility",0
+"Lasso","Press_mm_hg",0
+"Lasso","Tdewpoint",0
+"Lasso","hour_sin",-0.0587800513344626
+"Lasso","hour_cos",-0.0611053914290011
+"Lasso","weekday_sin",0
+"Lasso","weekday_cos",0.00476050354139898
+"Polynomial ridge","appl_lag1^2",-0.0679392204856542
+"Polynomial ridge","appl_lag1:hour_cos",-0.058277559134236
+"Polynomial ridge","appl_lag1:Tdewpoint",-0.0539029393562014
+"Polynomial ridge","appl_lag1:Press_mm_hg",0.0476606824728699
+"Polynomial ridge","appl_lag1",0.0457967590576843
+"Polynomial ridge","appl_lag1:RH_9",0.0441035698454993
+"Polynomial ridge","appl_lag1:RH_3",0.043426907511499
+"Polynomial ridge","appl_lag1:RH_8",0.0423333417463033
+"Polynomial ridge","appl_lag1:RH_4",0.0379678575973997
+"Polynomial ridge","appl_lag1:T2",0.0348755777605614
+"Polynomial ridge","appl_lag1:T7",0.0348437226412181
+"Polynomial ridge","appl_lag1:T3",0.0345688664570157
+"Polynomial ridge","appl_lag1:RH_7",0.0345111653748782
+"Polynomial ridge","hour_sin:hour_cos",-0.0339616613284774
+"Polynomial ridge","appl_lag1:Visibility",0.0339095679007991
+"Polynomial ridge","appl_lag1:RH_2",0.0330500470954229
+"Polynomial ridge","appl_lag1:T8",0.0325195861203244
+"Polynomial ridge","appl_lag1:T9",0.0324513681622641
+"Polynomial ridge","appl_lag1:RH_5",0.0320698267868706
+"Polynomial ridge","appl_lag1:RH_out",0.0313824470042194
+"Polynomial ridge","appl_lag1:T5",0.0313599386746508
+"Polynomial ridge","appl_lag1:T1",0.0307672428840173
+"Polynomial ridge","appl_lag1:hour_sin",-0.0289667365740302
+"Polynomial ridge","appl_lag1:T4",0.0283965608575861
+"Polynomial ridge","appl_lag1:RH_6",0.02707009727096
+"Polynomial ridge","appl_lag1:RH_1",0.0221780694735156
+"Polynomial ridge","appl_lag1:weekday_cos",0.017607053909917
+"Polynomial ridge","appl_lag1:Windspeed",0.0172254087123432
+"Polynomial ridge","T6:hour_cos",0.0166260702014732
+"Polynomial ridge","Tdewpoint:hour_sin",0.015888519824656
+"Polynomial ridge","appl_lag1:T6",0.0151666914417427
+"Polynomial ridge","T6:RH_6",-0.0147801389473851
+"Polynomial ridge","appl_lag1:T_out",0.0129339384818842
+"Polynomial ridge","hour_sin^2",0.0127852159937539
+"Polynomial ridge","hour_cos^2",-0.0127852159937534
+"Polynomial ridge","Windspeed:weekday_sin",0.0124008922142986
+"Polynomial ridge","hour_cos:weekday_sin",0.012158381131818
+"Polynomial ridge","RH_6:T_out",-0.0120496832862705
+"Polynomial ridge","Windspeed^2",-0.0118020001675115
+"Polynomial ridge","Visibility:weekday_cos",0.0108566169717724
+"Polynomial ridge","Tdewpoint:hour_cos",-0.0105964551351349
+"Polynomial ridge","T3^2",0.0102807257255478
+"Polynomial ridge","RH_5:T_out",-0.0101217023771775
+"Polynomial ridge","hour_cos:weekday_cos",-0.00942510684060863
+"Polynomial ridge","T6:RH_5",-0.00913029338225455
+"Polynomial ridge","T3:hour_cos",-0.00871317701053574
+"Polynomial ridge","T8:hour_sin",-0.00835452380865816
+"Polynomial ridge","Tdewpoint^2",-0.00820353621900655
+"Polynomial ridge","weekday_sin:weekday_cos",0.00819141923587372
+"Polynomial ridge","RH_out:hour_cos",-0.00816717167198353
+"Polynomial ridge","T3:hour_sin",-0.00802591029270818
+"Polynomial ridge","T3:T6",0.00790763620014346
+"Polynomial ridge","T6:Visibility",-0.00788635624801571
+"Polynomial ridge","appl_lag1:weekday_sin",-0.00783139017371697
+"Polynomial ridge","T_out:hour_cos",0.00770388353261394
+"Polynomial ridge","T8:RH_3",0.00741091750385975
+"Polynomial ridge","RH_8:hour_sin",-0.00736932884506548
+"Polynomial ridge","Windspeed:hour_cos",-0.00712054148819478
+"Polynomial ridge","Windspeed:Tdewpoint",-0.00712000834905607
+"Polynomial ridge","hour_sin:weekday_sin",-0.00702756324692496
+"Distributed lag (OLS)","appl_lag1",0.714184188229724
+"Distributed lag (OLS)","T1",-4.59502619723337
+"Distributed lag (OLS)","T2",1.61462096560924
+"Distributed lag (OLS)","T3",5.37223997795215
+"Distributed lag (OLS)","T4",0.268498583406639
+"Distributed lag (OLS)","T5",0.168864580080962
+"Distributed lag (OLS)","T6",-0.646444436591628
+"Distributed lag (OLS)","T7",1.25672686206843
+"Distributed lag (OLS)","T8",2.66424654957472
+"Distributed lag (OLS)","T9",-5.87147627868531
+"Distributed lag (OLS)","RH_1",-1.05764164349292
+"Distributed lag (OLS)","RH_2",0.699698136651496
+"Distributed lag (OLS)","RH_3",1.27872990780216
+"Distributed lag (OLS)","RH_4",-0.125188136379047
+"Distributed lag (OLS)","RH_5",-0.0681364395352992
+"Distributed lag (OLS)","RH_6",-0.0750259258951812
+"Distributed lag (OLS)","RH_7",-0.610309730492038
+"Distributed lag (OLS)","RH_8",0.0342099931266648
+"Distributed lag (OLS)","RH_9",0.330317067483413
+"Distributed lag (OLS)","T_out",0.612226252279317
+"Distributed lag (OLS)","RH_out",0.334434759487783
+"Distributed lag (OLS)","Windspeed",0.556076825262756
+"Distributed lag (OLS)","Visibility",0.00452957323645947
+"Distributed lag (OLS)","Press_mm_hg",-0.0635820745372573
+"Distributed lag (OLS)","Tdewpoint",-0.410360002392238
+"Distributed lag (OLS)","hour_sin",-11.7910081530296
+"Distributed lag (OLS)","hour_cos",-12.6347754995137
+"Distributed lag (OLS)","weekday_sin",-0.242174113528262
+"Distributed lag (OLS)","weekday_cos",1.29556775659744
+"PHMR","appl_lag1",0.00618725269008356
+"PHMR","T1",-0.000416121277014595
+"PHMR","T2",0.000163338113051195
+"PHMR","T3",0.000479341707794517
+"PHMR","T4",9.4545782746808e-05
+"PHMR","T5",5.92267583802327e-05
+"PHMR","T6",6.5787962067328e-05
+"PHMR","T7",0.000147744408891709
+"PHMR","T8",0.00048064268986038
+"PHMR","T9",-0.000543097567160421
+"PHMR","RH_1",-0.000276309451448895
+"PHMR","RH_2",5.15945475947919e-05
+"PHMR","RH_3",0.000398838074048775
+"PHMR","RH_4",-7.65121269488898e-05
+"PHMR","RH_5",-8.67377744242147e-05
+"PHMR","RH_6",-1.81123447341223e-05
+"PHMR","RH_7",-0.000314384192445141
+"PHMR","RH_8",0.000181870193686067
+"PHMR","RH_9",0.000154411474106777
+"PHMR","T_out",-0.000109272223025455
+"PHMR","RH_out",9.885900778309e-05
+"PHMR","Windspeed",8.27009182837605e-05
+"PHMR","Visibility",-2.51262640057875e-05
+"PHMR","Press_mm_hg",-3.74125082966655e-05
+"PHMR","Tdewpoint",-6.38248692665561e-05
+"PHMR","hour_sin",-0.00130180603777587
+"PHMR","hour_cos",-0.00124885851969157
+"PHMR","weekday_sin",1.3648519016712e-05
+"PHMR","weekday_cos",8.83414528673921e-05
+"Persistence (reference)","appl_lag1",1
+"OLS, base library (reference)","appl_lag1",0.714184188229724
+"OLS, base library (reference)","T1",-4.59502619723337
+"OLS, base library (reference)","T2",1.61462096560924
+"OLS, base library (reference)","T3",5.37223997795215
+"OLS, base library (reference)","T4",0.268498583406639
+"OLS, base library (reference)","T5",0.168864580080962
+"OLS, base library (reference)","T6",-0.646444436591628
+"OLS, base library (reference)","T7",1.25672686206843
+"OLS, base library (reference)","T8",2.66424654957472
+"OLS, base library (reference)","T9",-5.87147627868531
+"OLS, base library (reference)","RH_1",-1.05764164349292
+"OLS, base library (reference)","RH_2",0.699698136651496
+"OLS, base library (reference)","RH_3",1.27872990780216
+"OLS, base library (reference)","RH_4",-0.125188136379047
+"OLS, base library (reference)","RH_5",-0.0681364395352992
+"OLS, base library (reference)","RH_6",-0.0750259258951812
+"OLS, base library (reference)","RH_7",-0.610309730492038
+"OLS, base library (reference)","RH_8",0.0342099931266648
+"OLS, base library (reference)","RH_9",0.330317067483413
+"OLS, base library (reference)","T_out",0.612226252279317
+"OLS, base library (reference)","RH_out",0.334434759487783
+"OLS, base library (reference)","Windspeed",0.556076825262756
+"OLS, base library (reference)","Visibility",0.00452957323645947
+"OLS, base library (reference)","Press_mm_hg",-0.0635820745372573
+"OLS, base library (reference)","Tdewpoint",-0.410360002392238
+"OLS, base library (reference)","hour_sin",-11.7910081530296
+"OLS, base library (reference)","hour_cos",-12.6347754995137
+"OLS, base library (reference)","weekday_sin",-0.242174113528262
+"OLS, base library (reference)","weekday_cos",1.29556775659744
+"OLS, base + six appliance lags (reference)","appl_lag1",0.793520472527201
+"OLS, base + six appliance lags (reference)","T1",-4.80562714545853
+"OLS, base + six appliance lags (reference)","T2",1.77367281524225
+"OLS, base + six appliance lags (reference)","T3",3.76469142941258
+"OLS, base + six appliance lags (reference)","T4",0.115610274176079
+"OLS, base + six appliance lags (reference)","T5",0.663606682070577
+"OLS, base + six appliance lags (reference)","T6",-0.600902148546461
+"OLS, base + six appliance lags (reference)","T7",1.11653232111288
+"OLS, base + six appliance lags (reference)","T8",2.08968660593602
+"OLS, base + six appliance lags (reference)","T9",-3.6617877794847
+"OLS, base + six appliance lags (reference)","RH_1",-1.5933312746299
+"OLS, base + six appliance lags (reference)","RH_2",0.768650827774467
+"OLS, base + six appliance lags (reference)","RH_3",0.458738489429454
+"OLS, base + six appliance lags (reference)","RH_4",0.230114686270086
+"OLS, base + six appliance lags (reference)","RH_5",-0.088969044805439
+"OLS, base + six appliance lags (reference)","RH_6",-0.0496063249824351
+"OLS, base + six appliance lags (reference)","RH_7",-0.481752895882475
+"OLS, base + six appliance lags (reference)","RH_8",0.357812691660853
+"OLS, base + six appliance lags (reference)","RH_9",0.568754652665722
+"OLS, base + six appliance lags (reference)","T_out",0.823013526614245
+"OLS, base + six appliance lags (reference)","RH_out",0.341139869874454
+"OLS, base + six appliance lags (reference)","Windspeed",0.508540696022085
+"OLS, base + six appliance lags (reference)","Visibility",-0.00836823524856008
+"OLS, base + six appliance lags (reference)","Press_mm_hg",-0.0535037435106495
+"OLS, base + six appliance lags (reference)","Tdewpoint",-0.76948270718961
+"OLS, base + six appliance lags (reference)","hour_sin",-11.9905077297612
+"OLS, base + six appliance lags (reference)","hour_cos",-11.5168095384142
+"OLS, base + six appliance lags (reference)","weekday_sin",-0.0012667839448136
+"OLS, base + six appliance lags (reference)","weekday_cos",1.02003895686024
+"OLS, base + six appliance lags (reference)","appl_lag2",-0.182753515459784
+"OLS, base + six appliance lags (reference)","appl_lag3",0.0868225323622201
+"OLS, base + six appliance lags (reference)","appl_lag4",0.0152485082018475
+"OLS, base + six appliance lags (reference)","appl_lag5",0.0281643247027368
+"OLS, base + six appliance lags (reference)","appl_lag6",0.0104669435424943
