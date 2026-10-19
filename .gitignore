@@ -1,0 +1,12 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Derived data: regenerate with `source("run_all.R")` from data/raw/
+data/processed/
+
+# OS noise
+Thumbs.db
+desktop.ini
