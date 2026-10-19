@@ -1,0 +1,3 @@
+"model","horizon_minutes","evaluated_rows","MAE","RMSE"
+"Persistence (previous observation)",10,3946,26.6396350734921,66.4367127178657
+"Linear regression (weather + time + previous appliances)",10,3946,26.2105984003836,61.3541346046293
